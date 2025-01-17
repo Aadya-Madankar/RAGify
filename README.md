@@ -9,7 +9,7 @@ You can find all the course notebooks in the notebooks directory. These notebook
 
 We aim to create a useful resource for the research and practitioner community to take the RAG to the uttermost extreme. Together we hope to accelerate innovation in this fabulous area by fostering a collaborative environment.
 
-![RAG Architecture Model](Images/RAG_Architecture_Model.webp)
+![RAG Architecture Model](Images/RAG_Architecture_Model.png)
 
 # Key Features
 🧠 State of the art RAG enhancements.
