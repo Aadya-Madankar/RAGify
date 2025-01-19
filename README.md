@@ -67,4 +67,19 @@ You have two options for running the code in these notebooks:
 39. [Prompting_101](https://github.com/Aadya-Madankar/RAGify/blob/main/Prompting_101.ipynb)- Prompting
 40. [RAG_101](https://github.com/Aadya-Madankar/RAGify/blob/main/RAG_101.ipynb)- RAG
 41. [Structured(JSON)_PDF_Data_Extraction](https://github.com/Aadya-Madankar/RAGify/blob/main/Structured(JSON)_PDF_Data_Extraction.ipynb) - PDF extraction
-42. [Web_Search_API](https://github.com/Aadya-Madankar/RAGify/blob/main/Web_Search_API.ipynb)- Using Web api for search 
+42. [Web_Search_API](https://github.com/Aadya-Madankar/RAGify/blob/main/Web_Search_API.ipynb)- Using Web api for search
+
+# About This Repository
+## - Audience: Designed for students and professionals interested in AI and natural language processing.
+## - Topics Covered: The notebooks cover foundational and advanced concepts in retrieval-augmented generation, including:
+    Data retrieval techniques
+    Model integration with retrieval systems
+    Practical applications of RAG in real-world scenarios
+# Getting Started
+Clone the repository and explore the notebooks at your own pace. Whether running them locally or in Colab, these notebooks will guide you step-by-step, enhancing your learning experience.
+
+# Contributing
+Contributions are welcome! If you have suggestions for improvements or new notebooks, please open an issue or submit a pull request.
+
+# License
+This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
